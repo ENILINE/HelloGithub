@@ -1,3 +1,3 @@
 name = "ENILINE"
-release = "1.0"
+release = "1.1"
 print("Hello, Github from " + name + " " + release + "!")
